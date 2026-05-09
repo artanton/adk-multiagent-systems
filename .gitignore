@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# environments
+.env
+.venv/
+venv/
+
+# ADK
+.adk/
+
+# Cloud Shell / VSCode
+.cache/
+.codeoss/
+.cloud-code/
+.local/
+.gemini/
+.vscode/
+
+# logs
+*.log
+
